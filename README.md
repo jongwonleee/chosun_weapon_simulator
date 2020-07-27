@@ -17,7 +17,7 @@
 ---
 ### 4. Logo
 
-![Logo](https://raw.githubusercontent.com/jongwonleee/chosun_weapon_simulator/master/image/start/title.bmp)
+![Logo](https://raw.githubusercontent.com/jongwonleee/chosun_weapon_simulator/master/image/start/ntitle.bmp)
 
 
 ---------------------------
